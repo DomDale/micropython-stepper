@@ -49,3 +49,6 @@ while True:
             Pfr.value(1)
         if (Poe.value() == 0):
             Poe.value(1)
+    else:
+        if (Poe.value() == 0):
+            Poe.value(0)
